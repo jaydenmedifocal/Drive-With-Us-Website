@@ -1,5 +1,4 @@
 User-agent: *
-Allow: /website
-Disallow: /
+Allow: /
 
-Sitemap: https://www.drivewithusaustralia.com/website/sitemap.xml
+Sitemap: https://jaydenmedifocal.github.io/Drive-With-Us-Website/sitemap.xml
