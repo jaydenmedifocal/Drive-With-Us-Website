@@ -1,8 +1,5 @@
 User-agent: *
-Allow: /
+Allow: /website
+Disallow: /
 
-# If hosting sitemap on GitHub Pages (project site)
-Sitemap: https://jaydenmedifocal.github.io/Drive-With-Us-Website/sitemap.xml
-
-# If hosting under Google Sites path
 Sitemap: https://www.drivewithusaustralia.com/website/sitemap.xml
